@@ -1,16 +1,3 @@
-好的，我将为你的项目撰写一份完整的 README 文件，内容将包括：
-
-* 项目简介，基于论文《SFAKD: Smoothed Frequency Augmentation for Knowledge Distillation》的方法简述；
-* 模块结构说明，特别突出 SFA 模块的核心设计思想；
-* 与 MDistiller 框架的集成说明；
-* 安装环境与数据准备说明；
-* 训练、评估、可视化等命令行示例；
-* CIFAR-100 与 ImageNet 实验精度展示表格；
-* 代码引用说明与许可协议。
-
-我整理好后会发给你审核。请稍等片刻。
-
-
 # SFAKD: Smoothed Frequency Augmentation for Knowledge Distillation
 
 ## Introduction
